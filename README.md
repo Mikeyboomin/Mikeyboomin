@@ -6,11 +6,11 @@ fast and reliable systems.
 ## Currently Learning
 - Python (FreeCodeCamp + Python Crash Course)
 - Backend Engineering
-- Web3 / Solana
+- Web3 Development
 
 ## Goals
 - Land a remote backend engineering role
-- Build onchain products on Solana
+- Build onchain products
 
 ## Projects
 - Currently in works
