@@ -1,3 +1,5 @@
 # Hey, I'm Boomin
 
-I'm currently building Volta Finance.
+A Full Stack software Engineer.
+
+Currently tryna get to 10x dev status.
